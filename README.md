@@ -1,1 +1,1 @@
-# Gambling Simulator
+# Welcome to Gambling Simulation Program 
